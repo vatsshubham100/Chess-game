@@ -6,7 +6,7 @@ Dive into the strategic world of Chess, brought to life in your browser! This Ch
 
 Ready to test your wits? Click the link below to start playing:
 
-🔗 **[Play Chess Game](https://ahmadalkholy.github.io/Javascript-Chess-Game/chess.html)**
+🔗 **[Play Chess Game](https://vatsshubham100.github.io/Chess-game/chess.html)**
 
 No installation or downloads needed—just click and challenge your mind!
 
